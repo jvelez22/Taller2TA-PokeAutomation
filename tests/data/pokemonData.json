@@ -1,0 +1,127 @@
+{
+    "format": "Ubers",
+    "gen": "Gen 6",
+    "pokemon": [
+        {
+            "name": "Deoxys-Defense",
+            "item": "Leftovers",
+            "ability": "Pressure",
+            "moves": {
+                "move1": "Stealth Rock",
+                "move2": "Recover",
+                "move3": "Seismic Toss",
+                "move4": "Taunt"
+            },
+            "ivSpread": "31/0/31/31/31/31",
+            "evStats": {
+                "hp": "252",
+                "atk": "0",
+                "def": "252",
+                "spa": "0",
+                "spd": "4",
+                "spe": "0"
+            }
+        },
+        {
+            "name": "Dialga",
+            "item": "Life Orb",
+            "ability": "Pressure",
+            "moves": {
+                "move1": "Draco Meteor",
+                "move2": "Fire Blast",
+                "move3": "Aura Sphere",
+                "move4": "Stealth Rock"
+            },
+            "ivSpread": "31/0/31/31/31/31",
+            "evStats": {
+                "hp": "252",
+                "atk": "0",
+                "def": "0",
+                "spa": "252",
+                "spd": "4",
+                "spe": "0"
+            }
+        },
+        {
+            "name": "Gengar-Mega",
+            "item": "Gengarite",
+            "ability": "Shadow Tag",
+            "moves": {
+                "move1": "Shadow Claw",
+                "move2": "Shadow Ball",
+                "move3": "Shadow Punch",
+                "move4": "Focus Blast"
+            },
+            "ivSpread": "31/31/31/0/31/31",
+            "evStats": {
+                "hp": "252",
+                "atk": "252",
+                "def": "0",
+                "spa": "0",
+                "spd": "4",
+                "spe": "0"
+            }
+        },
+        {
+            "name": "Rayquaza",
+            "item": "Choice Band",
+            "ability": "Air Lock",
+            "moves": {
+                "move1": "Outrage",
+                "move2": "Extreme Speed",
+                "move3": "Earthquake",
+                "move4": "V-create"
+            },
+            "ivSpread": "31/31/31/0/31/31",
+            "evStats": {
+                "hp": "4",
+                "atk": "252",
+                "def": "0",
+                "spa": "0",
+                "spd": "0",
+                "spe": "252"
+            }
+        },
+        {
+            "name": "Mewtwo",
+            "item": "Life Orb",
+            "ability": "Pressure",
+            "moves": {
+                "move1": "Psystrike",
+                "move2": "Aura Sphere",
+                "move3": "Fire Blast",
+                "move4": "Ice Beam"
+            },
+            "ivSpread": "31/0/31/31/31/31",
+            "evStats": {
+                "hp": "4",
+                "atk": "0",
+                "def": "0",
+                "spa": "252",
+                "spd": "0",
+                "spe": "252"
+            }
+        },
+        {
+            "name": "Garchomp",
+            "item": "Focus Sash",
+            "ability": "Rough Skin",
+            "moves": {
+                "move1": "Earthquake",
+                "move2": "Dragon Claw",
+                "move3": "Swords Dance",
+                "move4": "Fire Fang"
+            },
+            "ivSpread": "31/31/31/0/31/31",
+            "evStats": {
+                "hp": "4",
+                "atk": "252",
+                "def": "0",
+                "spa": "0",
+                "spd": "0",
+                "spe": "252"
+            }
+        }
+    ],
+    "expectedValidationMessage": "Your team is valid for [Gen 6] Ubers."
+}
